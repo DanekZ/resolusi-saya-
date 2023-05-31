@@ -1,5 +1,8 @@
 Hal yang dilakukan untuk kegiatan di kampus 
 - membaca buku
+  *membaca buku php
+  *membaca buku javascript
 - belajar pemograman 
+  *latihan pemograman untuk mengasah skill
 - belajar algoritma
 - fokus web
