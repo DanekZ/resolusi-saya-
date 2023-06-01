@@ -2,6 +2,7 @@ Hal yang dilakukan untuk kegiatan di kampus
 - membaca buku
   *membaca buku php
     ^15 menit
+    ^sambil ngopi
   *membaca buku javascript
     ^15 menit
 - belajar pemograman 
