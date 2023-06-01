@@ -1,9 +1,12 @@
 Hal yang dilakukan untuk kegiatan di kampus 
 - membaca buku
   *membaca buku c++
+    ^sambil ngopi
   *membaca buku javascript
+    ^15 menit
 - belajar pemograman 
   *latihan pemograman untuk mengasah skill
 - belajar algoritma
   * belajar dasar nya
 - fokus web
+- konsul ke dosen pembimbing
